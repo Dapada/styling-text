@@ -7,3 +7,14 @@
 	text-transform: uppercase;
 	text-align: right;
 }
+
+
+div {
+	font-size: 120%;
+}
+
+
+
+div > .unit {
+	color: green;
+}
